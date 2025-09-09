@@ -9,7 +9,7 @@
 ## 課程筆記區
 
 ## 作業連結區
-[9.08](https://github.com/Yuan-Chun-Chih/9.08)
+[9.08作品](https://github.com/Yuan-Chun-Chih/9.08)
 ## 專題連結區
 
 ## About
