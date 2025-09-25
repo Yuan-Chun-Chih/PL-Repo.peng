@@ -12,6 +12,8 @@
 
 [9.11_HW_1](https://github.com/Yuan-Chun-Chih/HW_1)
 
+[9.23 HW_2](https://github.com/Yuan-Chun-Chih/PL-Repo.peng/blob/main/HW_2.ipynb)
+
 ## 專題連結區
 
 ## About
