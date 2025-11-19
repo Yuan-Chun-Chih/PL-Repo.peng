@@ -15,7 +15,7 @@
 | 2025-10-09 | [作業三：待辦清單與番茄鐘紀錄.ipynb](https://github.com/Yuan-Chun-Chih/HW_3/blob/main/%E3%80%8Chw_3_10_9_ipynb%E3%80%8D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb) | 在 Sheet 維護 To-do（狀態、預估時間、完成時間）→ Colab 輸出今日計畫與完成率 → 寫回完成標記 | 模型將今日任務排成三段行動計畫（morning / afternoon / evening） | ✅ 已完成 |
 | 2025-10-16 | [作業四：文字資料小分析.ipynb](https://github.com/Yuan-Chun-Chih/HW_4_10_23/blob/main/HW_4.ipynb)    | 從 Sheet 讀開放式回答 → 做詞數與關鍵字計數 → 輸出前 N 熱詞 → 回寫統計表             | 模型產出 5 句洞察摘要 + 詞雲視覺化                      | ✅ 已完成 |
 | 2025-10-30 | [作業五：午餐 / 聚會決策器.ipynb](https://github.com/Yuan-Chun-Chih/HW_5/blob/main/HW_5_V2.ipynb) | 從 Sheet 讀餐廳清單（價位 / 距離 / 是否營業）→ 篩選 → 隨機推薦 3 家 → 寫建議清單      | 模型把 3 家優缺點壓成 100 字說明，幫助快速決策                    | ✅ 已完成 |
-| 2025-11-06 | [作業六：課表查詢與提醒素材.ipynb]  | 從 Sheet 讀課表 → 指定星期輸出當日課程、地點 → 回寫「本週重點」分頁                  | 模型把本週課程壓成一句「行前提醒」（攜帶品 / 先讀章節）                  | ⬜ 未完成 |
+| 2025-11-06 | [作業六：課表查詢與提醒素材.ipynb](https://github.com/Yuan-Chun-Chih/HW_6/blob/main/HW_6_V2.ipynb)  | 從 Sheet 讀課表 → 指定星期輸出當日課程、地點 → 回寫「本週重點」分頁                  | 模型把本週課程壓成一句「行前提醒」（攜帶品 / 先讀章節）                  | ✅ 已完成 |
 
 
 ## 專題連結區 (￣ω￣)人(￣︶￣)
