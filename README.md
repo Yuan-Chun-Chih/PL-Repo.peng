@@ -24,4 +24,4 @@
 
 [網站](https://yugioh-strategy-platform.firebaseapp.com/)
 
-[程式語言期末專題成果影片:遊戲王構築分析站](https://youtu.be/WMYahKg55JM)
+[程式語言期末專題成果影片:遊戲王構築分析站](https://youtu.be/uFjIYjVPg48)
