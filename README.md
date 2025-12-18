@@ -20,6 +20,6 @@
 
 ## 專題連結區 (￣ω￣)人(￣︶￣)
 
-[程式語言期末專題初步提案 : 輿情趨勢分析](https://github.com/Yuan-Chun-Chih/yugioh-analyzer)
+[程式語言期末專題成果:遊戲王構築分析站](https://github.com/Yuan-Chun-Chih/yugioh-analyzer)
 
 [程式語言期末專題成果:遊戲王構築分析站](https://youtu.be/WMYahKg55JM)
